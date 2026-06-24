@@ -1,6 +1,9 @@
 # Arch dark-mode
 Turns your arch into dark mode like thunar etc.  
 
+Run from your terminal
+curl -s https://raw.githubusercontent.com/ppkcomputers/dark-mode/refs/heads/main/dark-mode.sh | bash
+
 Here is a breakdown of what the script does, step by step:
 
 1. Installation Check
