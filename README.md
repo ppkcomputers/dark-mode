@@ -1,4 +1,4 @@
-# dark-mode
+# Arch dark-mode
 Turns your arch into dark mode like thunar etc.  
 
 Here is a breakdown of what the script does, step by step:
